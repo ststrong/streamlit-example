@@ -7,7 +7,9 @@ import streamlit as st
 """
 # Welcome to Streamlit!
 
-Edit `/streamlit_app.py` to customize this app to your heart's desire :heart:
+Wow `/streamlit_app.py` to customize this app to your heart's desire :heart:
+
+It literally just uses the comments that's really fookin cool
 
 If you have any questions, checkout our [documentation](https://docs.streamlit.io) and [community
 forums](https://discuss.streamlit.io).
